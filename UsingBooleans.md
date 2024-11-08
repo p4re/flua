@@ -1,9 +1,9 @@
 ## Examples Booleans
 # written by miller
 
-```
+```lua
 local flua_setting_Enabled = {"bool", true}
---                              ^
+--                              ^       ^ default value
 -- Boolean, true/false statements are used primarily i dunno if you can do text ill check ltr
 ```
 
