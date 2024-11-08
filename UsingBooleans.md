@@ -1,4 +1,11 @@
-## Examples
+## Examples Booleans
+# written by miller
+
+```
+local flua_setting_Enabled = {"bool", true}
+--                              ^
+-- Boolean, true/false statements are used primarily i dunno if you can do text ill check ltr
+```
 
 ### Printing Boolean Settings
 
@@ -44,3 +51,4 @@ local noclipParts = {}
         end
     end)
 end
+```
