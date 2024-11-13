@@ -2,7 +2,8 @@
 Flua is a Roblox scripting CLI tool
 
 # FLua Documentation
-## written by miller
+## written by miller 
+(better docs soon when home...)
 
 FLua provides a way to configure scripts before full execution using Booleans or Integers.
 
