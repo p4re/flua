@@ -11,7 +11,7 @@ local flua_setting_Enabled = {"bool", true}
 ### Printing Boolean Settings
 
 ```lua
--- Example for using and printing the FLua function.
+-- Example for using and printing the flua function.
 local flua_setting_Enabled = {"bool", true}
 
 print("Enabled:", flua_setting_Enabled[2]) -- Output: Enabled: true
