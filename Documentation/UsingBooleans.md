@@ -1,4 +1,5 @@
 ## Examples Booleans
+
 # written by miller
 
 ```lua
@@ -22,7 +23,7 @@ local flua_setting_Enabled = {"bool", false}
 print("Enabled:", flua_setting_Enabled[2]) -- Output: Enabled: false
 ```
 
-### No-Clip Toggle Example
+### No-Clip Example
 
 ```lua
 local flua_setting_Enabled = {"bool", true}
