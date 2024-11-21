@@ -10,7 +10,7 @@ Flua is a Roblox scripting CLI tool designed to configure scripts before executi
 
 ### UI Colors (CLR)
 
-Flua allows for UI customization using predefined color codes:
+Flua allows for UI customization using color codes: (i dont know what each number goes to ask pare...)
 
 ```py
 clr = {
