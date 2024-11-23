@@ -1,6 +1,6 @@
 # Flua
 
-Flua is a Roblox scripting CLI tool designed to configure scripts before execution using **Booleans** and **Integers**. It enables developers to set adjustable parameters and toggle features dynamically, enhancing flexibility and customization.
+Flua is a Roblox scripting CLI with additional functions to configure scripts before execution using **Booleans** and **Integers**. It enables developers to set adjustable parameters and toggle features dynamically, allowing more flexibility and customization.
 
 ## features that may serve of use:
 
